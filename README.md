@@ -4,6 +4,8 @@ Software engineering student at EPITECH, focused on backend development.
 
 I enjoy building things that make life easier for myself or others, and finding answers to random questions.
 
+[LinkedIn](https://www.linkedin.com/in/brieuc-m%C3%A9vel-987249253/)
+
 ## Selected projects
 
 - **[ScoreurTafaron](https://github.com/BR13UC/ScoreurTafaron)** — Real-time multiplayer scoring app using Node.js, TypeScript, Socket.IO, and mobile clients.
