@@ -2,12 +2,13 @@
 
 Software engineering student at EPITECH, focused mainly on backend development.
 
-I enjoy building APIs, real-time systems, and reliable backend architecture.
+I enjoy building random stuff to make life easyer for me or others, or find anwsers to random questions.
 
-## Current projects
+## Recent projects
 
 - **[ScoreurTafaron](https://github.com/BR13UC/ScoreurTafaron)** — Real-time multiplayer scoring app using Node.js, TypeScript, Socket.IO, and mobile clients.
-- **[Nekx SEO](https://github.com/BR13UC/Nekx-SEO-outbound-marketing)** — AI-assisted outbound experimentation platform using FastAPI, Gemini, and SQLite.
+- **[Fencing Brackets Prediction]
+- **[Nekx SEO](https://github.com/BR13UC/Nekx-SEO-outbound-marketing)** — AI-assisted outbound experimentation platform using FastAPI, Gemini, and SQLite for Nekx SEO.
 - **[LFS-MapGen](https://github.com/BR13UC/LFS-MapGen)** — Deterministic procedural map generator using cellular automata, A* pathfinding, and seeded generation.
 
 ## Main technologies
