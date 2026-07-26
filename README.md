@@ -6,7 +6,7 @@ I enjoy building things that make life easier for myself or others, and finding 
 
 [LinkedIn](https://www.linkedin.com/in/brieuc-m%C3%A9vel-987249253/)
 
-## Selected projects
+## Some projects of mine
 
 - **[ScoreurTafaron](https://github.com/BR13UC/ScoreurTafaron)** — Real-time multiplayer scoring app using Node.js, TypeScript, Socket.IO, and mobile clients.
 - **[Nekx SEO](https://github.com/BR13UC/Nekx-SEO-outbound-marketing)** — AI-assisted outbound experimentation platform using FastAPI, Gemini, and SQLite.
