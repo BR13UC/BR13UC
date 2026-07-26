@@ -11,7 +11,7 @@ I enjoy building things that make life easier for myself or others, and finding 
 - **[ScoreurTafaron](https://github.com/BR13UC/ScoreurTafaron)** — Real-time multiplayer scoring app using Node.js, TypeScript, Socket.IO, and mobile clients.
 - **[Nekx SEO](https://github.com/BR13UC/Nekx-SEO-outbound-marketing)** — AI-assisted outbound experimentation platform using FastAPI, Gemini, and SQLite.
 - **[LFS-MapGen](https://github.com/BR13UC/LFS-MapGen)** — Deterministic procedural map generator using cellular automata, A* pathfinding, and seeded generation.
-- **[Learn From Scraps](https://github.com/BR13UC/Learn-From-Scraps)** — I am currently working on an educational game project built with Node.js, .NET, MongoDB, and Unity.
+<!--- **[Learn From Scraps](https://github.com/BR13UC/Learn-From-Scraps)** — I am currently working on an educational game project built with Node.js, .NET, MongoDB, and Unity.-->
 - **[Fencing Brackets Prediction](https://github.com/BR13UC/FencingBracketsPrediction)** — Project focused on predicting fencing tournament brackets.
 
 ## Technologies
